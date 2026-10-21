@@ -1,0 +1,73 @@
+{
+  "kind": "Listing",
+  "data": {
+    "children": [
+      {
+        "kind": "t3",
+        "data": {
+          "id": "fx0001",
+          "subreddit": "ExampleVoiceGigs",
+          "title": "[PAID] Two lines for an indie platformer villain",
+          "selftext": "Need a gravelly villain read for two short lines. Flat $50, send a demo link.",
+          "created_utc": 1792608651,
+          "permalink": "/r/ExampleVoiceGigs/comments/fx0001/paid_two_lines_for_an_indie_platformer_villain/"
+        }
+      },
+      {
+        "kind": "t3",
+        "data": {
+          "id": "fx0002",
+          "subreddit": "ExampleVoiceGigs",
+          "title": "Narrator wanted for a 40-minute fantasy audiobook",
+          "selftext": "Warm, steady delivery. Royalty share or flat fee. DM me a sample.",
+          "created_utc": 1792601451,
+          "permalink": "/r/ExampleVoiceGigs/comments/fx0002/narrator_wanted_for_a_40minute_fantasy_audiobook/"
+        }
+      },
+      {
+        "kind": "t3",
+        "data": {
+          "id": "fx0003",
+          "subreddit": "ExampleAnimationClub",
+          "title": "Student short: looking for a voice for our robot sidekick",
+          "selftext": "Short script, about ten lines, credit given. Reply with a sample read.",
+          "created_utc": 1792590651,
+          "permalink": "/r/ExampleAnimationClub/comments/fx0003/student_short_looking_for_a_voice_for_our_robot/"
+        }
+      },
+      {
+        "kind": "t3",
+        "data": {
+          "id": "fx0004",
+          "subreddit": "ExampleMicTalk",
+          "title": "Which USB mic do you use for home recording?",
+          "selftext": "Trying to choose between two budget mics for my closet booth.",
+          "created_utc": 1792583451,
+          "permalink": "/r/ExampleMicTalk/comments/fx0004/which_usb_mic_do_you_use_for_home_recording/"
+        }
+      },
+      {
+        "kind": "t3",
+        "data": {
+          "id": "fx0005",
+          "subreddit": "ExampleMicTalk",
+          "title": "Finished treating my closet booth",
+          "selftext": "Moving blankets and foam panels. It sounds much less boxy now.",
+          "created_utc": 1792576251,
+          "permalink": "/r/ExampleMicTalk/comments/fx0005/finished_treating_my_closet_booth/"
+        }
+      },
+      {
+        "kind": "t3",
+        "data": {
+          "id": "fx0006",
+          "subreddit": "ExampleVoiceGigs",
+          "title": "Finally paid off my audio interface",
+          "selftext": "Not hiring anyone, just happy to be done with the payments.",
+          "created_utc": 1792569051,
+          "permalink": "/r/ExampleVoiceGigs/comments/fx0006/finally_paid_off_my_audio_interface/"
+        }
+      }
+    ]
+  }
+}
